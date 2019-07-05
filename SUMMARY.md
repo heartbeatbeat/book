@@ -1,5 +1,8 @@
-# Summary
+# Table of contents
 
+* [Initial page](README.md)
+
+<<<<<<< HEAD
  * [Introduction](README.md)
  * [预备周：基于认知科学的信息训练法](ch0/preface.md)
      * [检索实操](ch0/RepSearchPractice.md)
@@ -42,3 +45,5 @@
  * [参考文献](ps/ref.md)
  * [致谢](ps/thanks.md)
  * [后记](no_end/postscript.md)
+=======
+>>>>>>> cee7b91519b4c2ee077c741c28b73eb05ffa3fb9
